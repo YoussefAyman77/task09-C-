@@ -6,7 +6,7 @@ namespace task09
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Sab3!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
